@@ -1,0 +1,1 @@
+Given a data with 7 dimensions, the program groups the data points into three different clusters who have similar properties using K-Means clustering. 
